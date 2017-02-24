@@ -2,18 +2,18 @@ Chapter3. Legal Concepts of the Insurance Contract
 ===============================================================================
 Keywords
 
-- Offer & Acceptance
-- Consideration
-- Legal Purpose
-- Competent Parties
-- Aleatory - Adhesion
-- Unilateral
-- Conditional
-- Utmost Good Faith - Warranty - Representation - Concealment - Insurable Interest - STOLI
-- Express Authority
-- Implied Authority - Apparent Authority
-- Waiver
-- Void/Voidable Contract
+- `Offer & Acceptance <Offer and Acceptance_>`_
+- `Consideration <Consideration_>`_
+- `Legal Purpose <Legal Purpose_>`_
+- `Competent Parties <Competent Parties_>`_
+- `Aleatory - Adhesion <Aleatory (偶然性)_>`_
+- `Unilateral <Unilateral_>`_
+- `Conditional <Conditional_>`_
+- `Utmost Good Faith - Warranty - Representation - Concealment - Insurable Interest - STOLI <Utmost Good Faith_>`_
+- `Express Authority <Agent Authority_>`_
+- `Implied Authority - Apparent Authority <Agent Authority_>`_
+- `Waiver <Waiver_>`_
+- `Void/Voidable Contract <Void versus Voidable Contracts_>`_
 
 
 GENERAL LAW OF CONTRACTS
@@ -22,22 +22,26 @@ A contract is an agreement enforceable by law. It is the means by which one or m
 insurance contract is called **cancellation**. 
 For a contract to be legally valid and binding, **it must contain certain elements** - ``offer and acceptance``, ``consideration``, ``legal purpose``, and ``competent parties``. Let's consider each.
 
-**Offer and Acceptance**
 
+Offer and Acceptance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To be legally enforceable, a contract must be made with a **definite, unqualified proposal (offer)** by one party and the acceptance of its exact terms by the other. In many cases, the offer of an insurance
 contract is made by the applicant when the application is submitted with the initial premium. The insurance company accepts the offer when it issues the policy as applied for. **When an offer is answered
 by a counteroffer, the first offer is void**.
 
-**Consideration**
 
+Consideration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 For a contract to be enforceable, the promise or promises it contains must be supported by consideration. Consideration can be defined as the value given in exchange for the promises sought. In an insurance contract, **consideration is given by the applicant in exchange for the insurer's promise to pay benefits**. It also consists of the application and the initial premium. This is why the offer and acceptance of an insurance contract are not complete until the insurer receives the application and the first premium. The Consideration clause also contains information such as the **schedule and amount of premium payments**.
 
-**Legal Purpose**
 
+Legal Purpose
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To be legal, a contract must have a legal purpose. This means that the object of the contract and **the reason the parties enter into the agreement must be legal**. A contract in which one party agrees to commit murder for money would be unenforceable in court because the object or purpose of the contract is not legal. Insurance contracts are always considered to possess a legal purpose.
 
-**Competent Parties**
 
+Competent Parties
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To be enforceable, a contract must be entered into by competent parties. With a contract of insurance, the parties to the contract are the applicant and the insurer. The insurer is considered competent if it has been licensed or authorized by the state(s) in which it conducts business. The applicant, unless proven otherwise, is presumed to be competent with three possible exceptions:
 
 ► Minors
@@ -52,45 +56,54 @@ SPECIAL FEATURES OF INSURANCE CONTRACTS
 -------------------------------------------------------------------------------
 The elements just discussed must be contained in every contract for it to be enforceable by law. In addition to these, insurance contracts have distinguishing characteristics that set them apart from many other legally binding agreements. Some of these characteristics are unique to insurance contracts. Let's review these distinctions.
 
-**Aleatory (偶然性)**
 
+Aleatory (偶然性)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Insurance contracts are aleatory. This means there is an element of chance and potential for **unequal exchange of value or consideration for both parties**. An aleatory contract is conditioned upon the occurrence of an event. Consequently, the benefits provided by an insurance policy may or may not exceed the premiums paid. **For example, an individual who has a disability insurance policy will collect benefits if she becomes disabled**. However, if no disability strikes, benefits are not paid. **Both insurance and gambling contracts are typically considered aleatory contracts**. 
 
-**Adhesion**
 
+Adhesion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Insurance contracts are contracts of adhesion. This means that the contract has been prepared by one party (the insurance company) with no negotiation between the applicant and insurer. In effect, the applicant "adheres" to the terms of the contract on a "take it or leave it" basis when accepted. Any confusing language in a contract of adhesion would be interpreted in favor of the insured**. The purpose is to correct any advantage that may result for the party who prepared the contract. **A policy of adhesion can also be described as one which the insurance company can modify**.
 
-**Unilateral**
 
+Unilateral
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Insurance contracts are unilateral. **This means that only one party (the insurer) makes any kind of enforceable promise**. Insurers promise to pay benefits upon the occurrence of a specific event, such as death or disability. The applicant makes no such promise. In fact, the applicant does not even promise to pay premiums. The insurer cannot require the premiums to be paid. Of course, the insurer has the right to cancel the contract if premiums are not paid.
 
 总结: 单方面性指只有保险公司对受保人做出承诺。
 
-**Personal Contract**
 
+Personal Contract
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Life insurance is a personal contract or personal agreement between the insurer and the insured. The owner of the policy has no bearing on the risk the insurer has assumed. For this reason, people who buy life insurance policies are called policy owners rather than policyholders. Policy owners actually own their policies and can give them away if they wish. This transfer of ownership is known as assignment. To assign a policy, a policy owner simply notifies the insurer in writing. The company will then accept the validity of the transfer without question. The new owner is granted all of the rights of policy ownership.
 
-**Conditional**
 
+Conditional
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 An insurance contract is conditional. This means that the insurer's promise to pay benefits depends on the occurrence of an event covered by the contract. If the event does not materialize, no benefits are paid. Furthermore, the insurer's obligations under the contract are conditioned on the performance of certain acts by the insured or the beneficiary. For example, the timely payment of premiums is a condition for keeping the contract in force. If premiums are not paid, the company is relieved of its obligation to pay a death benefit.
 
-**Valued or Indemnity**
 
+Valued or Indemnity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 An insurance contract is either a valued contract or an indemnity contract. **A valued contract pays a stated sum regardless of the actual loss incurred**. Life insurance contracts are valued contracts. If an individual acquires a life insurance policy insuring her life for $500,000, that is the amount payable at death. There is no attempt to value actual financial loss upon a person’s death.
 
 **An indemnity contract, however, is one that pays an amount equal to the loss**. Contracts of indemnity attempt to return the insured to their original financial position. Fire and health insurance policies are examples of indemnity contracts. An insured that owns a $50,000 fire insurance policy and suffers a $5,000 loss due to fire will be able to collect up to $5,000, not $50,000.
 
-**Utmost Good Faith**
 
+Utmost Good Faith
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Insurance is a contract of **utmost good faith**. This means both the policyowner and the insurer must know all material facts and relevant information. There can be no attempt by either party to conceal, disguise, or deceive. A consumer purchases a policy based largely on the insurer and agent’s explanation of the policy’s features, benefits, and advantages. **Insurance applicants are required to make a full, fair and honest disclosure of the risk to the
 agent and insurer**. Concepts related to utmost good faith include warranties, representations, and concealment. These represent grounds through which an insurer might seek to avoid payment under a contract.
 
-**Warranty**
 
+Warranty
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A warranty in insurance is a statement made by the applicant that is **guaranteed to be true in every respect**. It becomes part of the contract and, if found to be untrue, can be grounds for revoking the contract. Warranties are presumed to be material because they affect the insurer's decision to accept or reject an applicant.
 
-**Representation**
 
+Representation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A representation is a statement made by the applicant that they **consider to be true and accurate to
 the best of the applicant's belief**. It is used by the insurer to evaluate whether or not to issue a policy. Unlike warranties, representations are not a part of the contract and need be true only to the extent that they are material and related to the risk. Statements made by applicants for insurance are considered to be representations and not warranties. 
 
@@ -99,14 +112,16 @@ The issue of concealment is also important to insurance contracts. Concealment i
 
 In most cases, life insurers have only a limited period of time to uncover false warranties, misrepresentations, or concealment. After that time period passes (normally two years from policy issue), the contract cannot be voided or revoked for these reasons.
 
-**Insurable Interest (可保权益)**
 
+Insurable Interest (可保权益)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Another element of a valid insurance contract is insurable interest. Insurable interest is a component of legal purpose. **This means that the person acquiring the contract (the applicant) must be subject to loss upon the death, illness, or disability of the person being insured. To have "an insurable interest" in the life of another person, an individual must have a reasonable expectation of benefiting from the other person's continued life**. A policy obtained by a person not having an insurable interest in the insured is not valid and cannot be enforced. Thus, insurable interest must exist between the applicant and the individual being insured. When the applicant is the same as the person to be insured, there is no question that insurable interest exists. Individuals are presumed to have insurable interest in themselves. 
 
 It is important to note that insurable **interest must only exist at the time of the application** of a life or health insurance contract. It doesn't have to continue throughout the duration of the policy nor does it have to exist at the time of claim.
 
-**Stranger-Originated Life Insurance (STOLl)**
 
+Stranger-Originated Life Insurance (STOLl)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Stranger-Originated Life Insurance (STOLI) transactions are life insurance arrangements where investors persuade individuals (typically seniors) to take out new life insurance, **naming the investors as beneficiary. This is sometimes called Investor-Originated Life Insurance (IOLI). These arrangements are used to circumvent state insurable interest statutes**. 
 
 Generally, the investors loan money to the insured to pay the premiums for a defined period (usually two years based on the life insurance policy's contestability period).
@@ -119,8 +134,9 @@ AGENTS AND BROKERS
 Contracts of insurance are binding and enforceable. As such, all parties to the contract (the insurer and the applicant) are subject to specific legal requirements. We discussed some of the more important regulations that states impose on people who solicit and sell insurance. 
 Next, we will focus on the legal aspects of negotiating and issuing contracts of insurance.
 
-**The Law of Agency**
 
+The Law of Agency
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As noted earlier, an agent is an individual who is authorized by an insurer to sell its goods and services on its behalf. An agent’s role involves the following duties:
 
 ► Describing the company’s insurance policies to prospective buyers and explaining the conditions under which the policies may be obtained
@@ -133,8 +149,9 @@ As noted earlier, an agent is an individual who is authorized by an insurer to s
 
 The authority of an agent to undertake these functions is clearly defined in a "contract of agency" (or agency agreement) between the agent and the company. Within the authority granted, the agent is considered to be the insurance company. The relationship between an agent and the company represented is governed by agency law.
 
-**Principles of Agency Law**
 
+Principles of Agency Law
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 By legal definition, an agent is a person who acts for another person or entity (known as the principal) with regard to contractual arrangements with third parties. An authorized agent has the power to bind the principal to contracts (and to the rights and responsibilities of those contracts). With this in mind, we can review the main principles of agency law:
 
 ► The acts of the agent (within the scope of his authority) are the acts of the principal
@@ -145,8 +162,9 @@ By legal definition, an agent is a person who acts for another person or entity 
 
 ► Knowledge of the agent regarding business of the principal is presumed to be knowledge of the principal
 
-**Agent Authority**
 
+Agent Authority
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Agent authority is another important concept of agency law. **Authority is what’s given by an insurer to a licensee to transact insurance on their behalf**. Technically, only those actions for which an agent is actually authorized can bind a principal. In reality, an agent's authority can be quite broad. There are three types of agent authority: express, implied, and apparent. 
 Let's take a look at each.
 
@@ -159,16 +177,19 @@ Let's take a look at each.
 ► The significance of authority (whether express, implied, or apparent) is that it ties the company to the acts and deeds of its agents. The law will view the agent and the company as one and the same when the **agent acts within the scope of his authority.** 
 ► **An insurer may be liable to an insured for unauthorized acts of its agent when the agency contract is unclear about the authority granted**.
 
-**Agent as a Fiduciary (受托人)**
 
+Agent as a Fiduciary (受托人)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Fiduciary is another legal concept which governs the activity of an agent. A fiduciary is a person who holds a position of financial trust and confidence. Agents act in a fiduciary capacity when they accept premiums on behalf of the insurer or offer advice that affects a person’s financial security.
 
-**Brokers versus Agents**
 
+Brokers versus Agents
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Unlike agents, brokers legally represent the insureds. A broker (or independent agent) may represent a number of insurance companies under separate contractual agreements. A broker solicits and accepts applications for insurance and then places the coverage with an insurer.
 
-**Professional Liability Insurance (E&O)**
 
+Professional Liability Insurance (E&O)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Just as doctors should have malpractice insurance to protect against legal liability arising from their professional services, insurance agents need **errors and omissions (遗漏)** (E&O) professional liability insurance. Under this insurance, the insurer agrees to pay sums that the agent legally is obligated to pay for injuries resulting from professional services that he rendered or failed to render.
 
 
@@ -176,26 +197,32 @@ OTHER LEGAL CONCEPTS
 -------------------------------------------------------------------------------
 In addition to the principles of contract and agency law, there are other legal concepts that apply to insurance and the power of agents. These include waiver, estoppel, parol evidence rule, void vs voidable contracts, and fraud.
 
-**Waiver**
 
+Waiver
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A waiver is the voluntary giving up of a legal, given right. **If an insurer fails to enforce (waives) a provision of a contract, it cannot later deny a claim based on a violation of that provision**.
 
-**Estoppel (不容反悔)**
 
+Estoppel (不容反悔)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The concepts of waiver and estoppel are closely related. Estoppel is the legal impediment to one party denying the consequences of its own actions or deeds if such actions or deeds result in another party acting in a specific manner or if certain conclusions are drawn. In other words, it is the loss of defense.
 
-**Parol Evidence Rule**
 
+Parol Evidence Rule
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Parol evidence is oral or verbal evidence, or that which is given verbally in a court of law. The parol evidence rule states that when parties put their agreement in writing, all previous verbal statements come together in that writing and a written contract cannot be changed or modified by parol (oral) evidence.
 
-**Void versus Voidable Contracts**
 
-The terms void and voidable are often incorrectly used interchangeably. **A void contract is simply an agreement without legal effect**. In essence, it is not a contract at all, for it lacks one of the elements specified by law for a valid contract. A void contract cannot be enforced by either party. For example, a contract having an illegal purpose is void, and neither party to the contract can enforce it. **An insurer may also void an insurance policy if a misrepresentation on the application is proven to be material.**
-
+Void versus Voidable Contracts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The terms void and voidable are often incorrectly used interchangeably. **A void contract is simply an agreement without legal effect**. In essence, it is not a contract at all, for it lacks one of the elements specified by law for a valid contract. A void contract cannot be enforced by either party. For example, a contract having an illegal purpose is void, and neither party to the contract can enforce it. **An insurer may also void an insurance policy if a misrepresentation on 
+e application is proven to be material.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A **voidable contract** is an agreement which, for a reason satisfactory to the court, may be set aside by one of the parties to the contract. It is binding unless the party with the right to reject it wishes to do so. Say that a situation develops under which the policyholder has failed to comply with a condition of the contract: the policyholder ceased paying the premium. The contract is then voidable, and the insurance company has the right to cancel the contract and revoke the coverage.
 
-**Fraud**
 
+Fraud
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In the event of fraud, insurance contracts are unique in that they run counter to a basic rule of contract law. Under most contracts, fraud can be a reason to void a contract. With life insurance contracts, an insurer has only a limited period of time (usually two years from date of issue) to challenge the validity of a contract. After that period, the insurer cannot contest the policy or deny benefits based on material misrepresentations, concealment, or fraud.
 
 
